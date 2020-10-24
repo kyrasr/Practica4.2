@@ -1,0 +1,53 @@
+body{
+    background-color: bisque;
+}
+
+#encabezado{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+p.carta{
+    color: blue;
+    text-align: left;
+}
+p.cafe{
+    text-align: center;
+    color: brown;
+}
+p.cubo{
+    text-align: right;
+    color: brown;
+}
+#cafe{
+    width: 100px;
+    height: 100px;
+}
+#taza{
+    width: 100px;
+    height: 100px;
+}
+#cubo{
+    width: 100px;
+    height: 100px;
+}
+
+p.lacarta{
+    color: brown;
+    font-weight: bold;
+}
+p.elcafe{
+    color: brown;
+    font-weight: bold;
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+
+
+
